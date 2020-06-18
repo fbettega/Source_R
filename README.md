@@ -3,4 +3,4 @@ Ce Repo regroupe les fonctions que j'ai dévollopé durant mon stage, ainsi que 
 
 Ci dessous la liste des exemples :  
 [Box plot avec teste de significativité pour les modalité adjacente d'un facteur](exemples/box_plot_signif_group_adjacent/box_plot_test_signifgroup_contigu.R)    
-![image](exemples/box_plot_signif_group_adjacent/exemple_box_plot.png){height=250px width=250px}
+![image](exemples/box_plot_signif_group_adjacent/exemple_box_plot.png=100x20)
